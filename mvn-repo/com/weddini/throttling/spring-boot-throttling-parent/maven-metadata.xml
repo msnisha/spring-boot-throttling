@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.weddini.throttling</groupId>
+  <artifactId>spring-boot-throttling-parent</artifactId>
+  <versioning>
+    <release>0.0.9</release>
+    <versions>
+      <version>0.0.9</version>
+    </versions>
+    <lastUpdated>20221124125333</lastUpdated>
+  </versioning>
+</metadata>
