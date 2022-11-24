@@ -18,7 +18,7 @@ Add maven repo to you project
 
 ```groovy
 repositories {
- maven { url "https://raw.github.com/weddini/spring-boot-throttling/mvn-repo/" }
+ maven { url "https://raw.github.com/msnisha/spring-boot-throttling/mvn-repo/" }
 }
 
 ```
